@@ -2,7 +2,7 @@
 .main-logo{
 	position: relative;
 	text-align: center;
-	margin-left: 45px;
+	margin-left: 5px;
 }
 
 .head-text{
@@ -19,20 +19,22 @@
 }
 
 #collapsable-nav{
-	float: right;
-}
+		margin-top: 40px;
+		float: right;
+	}
 
 button{
-	float: right;
-}
+		float: right;
+	}
 
 li a {
-	color: #46AA9E;
-	font-size: 120%;
-}
+		color: grey;
+		font-size: 120%;
+	}
 
 li a:hover{
-	opacity: .9;
+		color: black;
+		
 }
 
  button.navbar-toggle, .icon-bar {
@@ -95,7 +97,8 @@ padding-top: 10px}
 	text-align: center;
 }
 
-p{text-align: center;}
+.right{text-align: right;}
+.left{text-align: left;}
 
 hr{
 	width: 80%;
