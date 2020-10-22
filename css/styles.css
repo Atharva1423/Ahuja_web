@@ -123,12 +123,12 @@ a:hover, a:active{
 
 		.logo-tiles a{
 		margin: 4%;
-		color: #46AA9E;
+		color: grey;
 		}
 
 		.logo-tiles a:hover ,.logo-tiles a:active{
 		text-decoration: none;
-		opacity: .8;
+		color: black
 	}
 
 /********SLIDESHOW********/
